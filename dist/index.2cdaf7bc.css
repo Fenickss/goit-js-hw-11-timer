@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  font-size: 40px;
+  font-style: white;
+  background-color: #fff;
+}
+
+.timer {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.field {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  color: #fa6400;
+  background-color: #7d4141;
+  border: 5px solid #ca370a;
+  border-radius: 50%;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+
+.label {
+  font-size: 30px;
+  display: block;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
